@@ -104,7 +104,7 @@ Le dashboard interactif offre plusieurs fonctionnalités permettant d'analyser e
 
 - **Interactivité avec les magasins** : En cliquant sur un magasin spécifique sur la carte, tous les chiffres du dashboard se mettent à jour automatiquement pour afficher les données relatives à ce magasin. Cela permet de zoomer sur les performances individuelles de chaque magasin et de comparer facilement les résultats entre différents sites.
 
-
+Lien du Dashboard sur Tableau Public : https://public.tableau.com/app/profile/valentin.tran/viz/EtudedecasTout_A_Vendre/Tableaudebord1
    ![Dashboard](images/Dashboard.png)
 
 ## Résultat
