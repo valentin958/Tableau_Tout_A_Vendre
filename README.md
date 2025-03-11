@@ -1,5 +1,5 @@
 
-# Projet Business Intelligence : Rapide étude de cas d'une base de données (Test) d'un magasin "Tout-@-Vendre"
+# Etude de cas d'une base de données (Test) d'un magasin "Tout-@-Vendre"
 
 ## Contexte
 
