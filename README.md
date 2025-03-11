@@ -80,7 +80,7 @@ Cette étape consiste à nettoyer et transformer les données de ventes fournies
       Ce modèle permet non seulement une analyse détaillée et flexible des données, mais il réduit également la redondance des informations en centralisant les données liées aux dimensions (comme les clients, magasins ou géographies) dans des tables séparées. Cela optimise la gestion des données, améliore les performances des requêtes, et simplifie les mises à jour des    informations sans affecter la table des faits. En outre, ce modèle facilite l'ajout de nouvelles dimensions à l'avenir sans perturber la structure existante.
   
 
-[modélisation flocon](Modele_en_flocon.png)
+   ![modélisation flocon](images/Modele_en_flocon.png)
 
 
 
@@ -105,6 +105,7 @@ Le dashboard interactif offre plusieurs fonctionnalités permettant d'analyser e
 - **Interactivité avec les magasins** : En cliquant sur un magasin spécifique sur la carte, tous les chiffres du dashboard se mettent à jour automatiquement pour afficher les données relatives à ce magasin. Cela permet de zoomer sur les performances individuelles de chaque magasin et de comparer facilement les résultats entre différents sites.
 
 
+   ![Dashboard](images/Dashboard.png)
 
 ## Résultat
 
