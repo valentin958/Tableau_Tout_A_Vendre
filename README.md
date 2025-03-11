@@ -1,5 +1,5 @@
 
-# Etude de cas d'une base de données (Test) d'un magasin "Tout-@-Vendre"
+# Etude de cas : Optimisation de la Stratégie de Vente pour Tout-@-Vendre
 
 ## Contexte
 
